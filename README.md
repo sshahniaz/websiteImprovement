@@ -15,7 +15,9 @@ The following is an implementation of a website improvement assignment.
 
 - Download/Clone it and run home.html using a liveserver[vscode].
 
-- Google Drive zip: [Link]()
+- Google Drive zip: [Link](https://drive.google.com/file/d/1L9ILgPsQeAi1qFv8ko7n0q5LZW_TORwm/view?usp=share_link)
+
+- Repo Link: [Github](https://github.com/sshahniaz/websiteImprovement)
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
